@@ -99,6 +99,7 @@ class Home extends StatelessWidget {
           ],
         ),
       ),
+      bottomSheet: Text("Hello "),
     );
   }
 }
